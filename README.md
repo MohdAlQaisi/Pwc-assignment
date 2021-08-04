@@ -12,10 +12,10 @@ Company ABC is looking to create a complaint management portal. Users will be ab
 # How To Run
 1. Download solution.
 2. Restore AppDb.bak.
-3. Open the angular app then on the same path open cmd. 
+3. Open the angular app folder then on the same path open cmd. 
    - Run command "npm install".
    - Run comman "ng server".
-4. Run App.Api application on IIS(not iisExpress, angular app pointint to 'http://localhost/App.Api/api/').
+4. Build Solution then Run App.Api application on IIS(not iisExpress, angular app pointing to 'http://localhost/App.Api/api/').
 5. users:
    - Username: "admin@app.com" Password:"P@ssw0rd" - Admin Role.
    - Username: "mohd@app.com" Password:"P@ssw0rd" - User Role.

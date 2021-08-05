@@ -10,7 +10,7 @@ Company ABC is looking to create a complaint management portal. Users will be ab
 5. @angular/cli ~12.1.1
 
 # How To Run
-1. Download solution.
+1. Download solution (App.zip).
 2. Restore AppDb.bak.
 3. Open the angular app folder then on the same path open cmd. 
    - Run command "npm install".
